@@ -1,1 +1,3 @@
-# comp_paralela
+#  Tutoriais de computação paralela.
+
+
