@@ -1,4 +1,4 @@
-# Tutorial 04: Paralelismo de Tarefas utilizando Sections
+# Tutorial 05: Paralelismo de Tarefas utilizando `sections`
 
 ### Você vai aprender: 
 * Como executar trechos diferentes de códigos em paralelo em OpenMP.
